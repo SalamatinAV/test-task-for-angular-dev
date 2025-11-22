@@ -1,0 +1,20 @@
+<div class="loader">
+  <app-loader [isLoading]="!repos.length"></app-loader>
+</div>
+
+<div class="container" *ngIf="repos.length">
+  <h2 class="text-center">GitHub Repositories</h2>
+  <h6 class="text-center">{{ 'User name' | addUserName }}</h6>
+  <div class="projects">
+    <div class="projects__card" *ngFor="let repo of repos">
+      <a [href]="repo.html_url" target="_blank">
+        <strong>{{ repo.name }}</strong>
+      </a>
+      <span class="projects__visibility">{{ repo.visibility }}</span>
+      <p class="projects__created">Updated: {{ repo.pushed_at | date: 'dd.MM.YY' }}</p>
+    </div>
+  </div>
+
+  <h3 class="text-center">Weather Data</h3>
+  <pre>{{ weatherData | json }}</pre>
+</div>
