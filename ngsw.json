@@ -1,0 +1,103 @@
+{
+  "configVersion": 1,
+  "timestamp": 1763823164869,
+  "index": "https://SalamatinAV.github.io/test-task-for-angular-dev/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://SalamatinAV.github.io/test-task-for-angular-dev/4.65da3a3e5a3d7133e0ec.js",
+        "https://SalamatinAV.github.io/test-task-for-angular-dev/favicon.ico",
+        "https://SalamatinAV.github.io/test-task-for-angular-dev/index.html",
+        "https://SalamatinAV.github.io/test-task-for-angular-dev/main.5601ea37d50b33ae8253.js",
+        "https://SalamatinAV.github.io/test-task-for-angular-dev/manifest.webmanifest",
+        "https://SalamatinAV.github.io/test-task-for-angular-dev/polyfills.c8b206eb2bb4d7b0bb26.js",
+        "https://SalamatinAV.github.io/test-task-for-angular-dev/runtime.28c0201eb8b6f835034f.js",
+        "https://SalamatinAV.github.io/test-task-for-angular-dev/styles.54fdb7e4607cdca559e0.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://SalamatinAV.github.io/test-task-for-angular-dev/apple-touch-icon.png",
+        "https://SalamatinAV.github.io/test-task-for-angular-dev/assets/ngx-rocket-logo.png",
+        "https://SalamatinAV.github.io/test-task-for-angular-dev/assets/ngx-rocket-logo@192.png",
+        "https://SalamatinAV.github.io/test-task-for-angular-dev/fa-brands-400.330e879afe4a0abb35f2.ttf",
+        "https://SalamatinAV.github.io/test-task-for-angular-dev/fa-brands-400.5f63cb7f47b6ea89773b.woff",
+        "https://SalamatinAV.github.io/test-task-for-angular-dev/fa-brands-400.6e63bd22128f27b83f22.woff2",
+        "https://SalamatinAV.github.io/test-task-for-angular-dev/fa-brands-400.98f20b9ec79b2fee02a3.eot",
+        "https://SalamatinAV.github.io/test-task-for-angular-dev/fa-brands-400.991c1c761fc31f9c3252.svg",
+        "https://SalamatinAV.github.io/test-task-for-angular-dev/fa-regular-400.2c154b0f8c0d8d166162.woff2",
+        "https://SalamatinAV.github.io/test-task-for-angular-dev/fa-regular-400.62a07ffeac77696f17ef.eot",
+        "https://SalamatinAV.github.io/test-task-for-angular-dev/fa-regular-400.ac2367644e559de4ff33.ttf",
+        "https://SalamatinAV.github.io/test-task-for-angular-dev/fa-regular-400.ea5a41ec4a24ce93298e.woff",
+        "https://SalamatinAV.github.io/test-task-for-angular-dev/fa-regular-400.f3187c7462849ed261a8.svg",
+        "https://SalamatinAV.github.io/test-task-for-angular-dev/fa-solid-900.0454203f26b33fc02e2b.svg",
+        "https://SalamatinAV.github.io/test-task-for-angular-dev/fa-solid-900.3eb06c702e27fb110194.woff2",
+        "https://SalamatinAV.github.io/test-task-for-angular-dev/fa-solid-900.6606667d9800a27eb8b5.eot",
+        "https://SalamatinAV.github.io/test-task-for-angular-dev/fa-solid-900.915a0b79c22a1c1f64da.ttf",
+        "https://SalamatinAV.github.io/test-task-for-angular-dev/fa-solid-900.f4f93856730733912b1e.woff"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://SalamatinAV.github.io/test-task-for-angular-dev/4.65da3a3e5a3d7133e0ec.js": "818fa795a6f3cbef34933cc282937d3c575f4088",
+    "https://SalamatinAV.github.io/test-task-for-angular-dev/apple-touch-icon.png": "229df2094cc590088de00ea97a1eb4e4493101d2",
+    "https://SalamatinAV.github.io/test-task-for-angular-dev/assets/ngx-rocket-logo.png": "0ac53fd27406fe5a36e68285315fb0012e54058e",
+    "https://SalamatinAV.github.io/test-task-for-angular-dev/assets/ngx-rocket-logo@192.png": "461b730f9c6dc818f8af9acbe62dfde24dc02d7a",
+    "https://SalamatinAV.github.io/test-task-for-angular-dev/fa-brands-400.330e879afe4a0abb35f2.ttf": "1d7866a71b5e80f5347a0e7ecda5d73417eb32dc",
+    "https://SalamatinAV.github.io/test-task-for-angular-dev/fa-brands-400.5f63cb7f47b6ea89773b.woff": "30aa9a4a5fa52ecc8b0bd4ab043b6c0ae21ed466",
+    "https://SalamatinAV.github.io/test-task-for-angular-dev/fa-brands-400.6e63bd22128f27b83f22.woff2": "9e355abda14ee62a7987b2ba7e2e887d33337e25",
+    "https://SalamatinAV.github.io/test-task-for-angular-dev/fa-brands-400.98f20b9ec79b2fee02a3.eot": "2f3fffe922f60679e7e3c6a06c2432f9762a9465",
+    "https://SalamatinAV.github.io/test-task-for-angular-dev/fa-brands-400.991c1c761fc31f9c3252.svg": "38d9fb997613254e98685dbd613bc2769dcde75f",
+    "https://SalamatinAV.github.io/test-task-for-angular-dev/fa-regular-400.2c154b0f8c0d8d166162.woff2": "c07631a91ee71c0a1a84a3151db42b1f2d9a9692",
+    "https://SalamatinAV.github.io/test-task-for-angular-dev/fa-regular-400.62a07ffeac77696f17ef.eot": "25eaf36ceec96e7f320f9abdaed39afe9873d6bb",
+    "https://SalamatinAV.github.io/test-task-for-angular-dev/fa-regular-400.ac2367644e559de4ff33.ttf": "31af896ae988b97eaf61f72d7e3fb770a1f6968e",
+    "https://SalamatinAV.github.io/test-task-for-angular-dev/fa-regular-400.ea5a41ec4a24ce93298e.woff": "298e5a9f355a69e0f06f48bf7db9595622668c25",
+    "https://SalamatinAV.github.io/test-task-for-angular-dev/fa-regular-400.f3187c7462849ed261a8.svg": "2dbcae3137c0df57c93ce1e653390c522c6b1492",
+    "https://SalamatinAV.github.io/test-task-for-angular-dev/fa-solid-900.0454203f26b33fc02e2b.svg": "2294d9f72ee4cd4811185b9da176188d9e045c4c",
+    "https://SalamatinAV.github.io/test-task-for-angular-dev/fa-solid-900.3eb06c702e27fb110194.woff2": "72344eab2e7431eec313caa21f266cbfda7caf60",
+    "https://SalamatinAV.github.io/test-task-for-angular-dev/fa-solid-900.6606667d9800a27eb8b5.eot": "9b47ed53b15058636a26d70f05a5bf8f505830dc",
+    "https://SalamatinAV.github.io/test-task-for-angular-dev/fa-solid-900.915a0b79c22a1c1f64da.ttf": "54a19042f3232f6b58df80f01b4b018a11868096",
+    "https://SalamatinAV.github.io/test-task-for-angular-dev/fa-solid-900.f4f93856730733912b1e.woff": "18d9a334e7184ae08e3a1c0468afb56a2a5b51cc",
+    "https://SalamatinAV.github.io/test-task-for-angular-dev/favicon.ico": "b65083d46bbf63692d5d2cdd69622e6d7ecae317",
+    "https://SalamatinAV.github.io/test-task-for-angular-dev/index.html": "8f6692d8c078729b7e25af807af5cc9d2694e702",
+    "https://SalamatinAV.github.io/test-task-for-angular-dev/main.5601ea37d50b33ae8253.js": "75ef0644778432071705b6778062b9f481df7dfb",
+    "https://SalamatinAV.github.io/test-task-for-angular-dev/manifest.webmanifest": "667f60576bd8c0bb127f5c69876868509b564e9f",
+    "https://SalamatinAV.github.io/test-task-for-angular-dev/polyfills.c8b206eb2bb4d7b0bb26.js": "0d003992512d28c544b0a972ce2ae6b28ebbf5f6",
+    "https://SalamatinAV.github.io/test-task-for-angular-dev/runtime.28c0201eb8b6f835034f.js": "5c2cdb83c2e816127d200519d750f683d48f783e",
+    "https://SalamatinAV.github.io/test-task-for-angular-dev/styles.54fdb7e4607cdca559e0.css": "9dc23dda6edecc1301ec0c6ff66f23b14c1cda65"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
